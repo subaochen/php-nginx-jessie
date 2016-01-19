@@ -1,0 +1,3 @@
+#for nginx installation
+deb http://mirrors.teraren.com/dotdeb/ jessie all
+deb-src http://mirrors.teraren.com/dotdeb/ jessie all
